@@ -1,0 +1,6 @@
+# Ignore all files of a certain type (e.g., all .tar.gz files)
+*.tar.gz
+redis-6.0.10
+
+# Ignore node_modules directory
+node_modules/
